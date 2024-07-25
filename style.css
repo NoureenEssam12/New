@@ -1,0 +1,11 @@
+h1{
+    color: red;
+    background-color: rgb(234, 252, 73);
+}
+p{
+    color: blue;
+    background-color: rgb(137, 252, 252);
+}
+hello h1 {
+    color: aqua;
+}
